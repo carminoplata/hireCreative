@@ -29,7 +29,7 @@ pip install -r requirements.txt
 This is a starter project that will help you getting started with Co:here API in a few minutes.
 ```bash
 # Clone repo
-git clone 
+git clone https://github.com/carminoplata/hireCreative.git
 
 # change into folder
 cd streamlit-cohere-boilerplate
