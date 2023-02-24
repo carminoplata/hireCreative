@@ -1,0 +1,4 @@
+cohere
+openai
+python-dotenv
+streamlit
